@@ -1,5 +1,10 @@
+# Release version 1.1
+1. Refine the code to be formal
+2. Add error handling
+
 # Initial version 1.0
-Test result in Ubuntu VM:
+
+#Test result in Ubuntu VM
 ```
 $time python3 SocialNetwork.py 
 Total persons in the network: 82168
